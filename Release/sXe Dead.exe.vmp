@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+	<Protection
+		InputFileName=".\sXe Dead.exe"
+		Options="38858"
+		CheckKernelDebugger="true"
+		CompressionMode="1"
+		VMCodeSectionName=".CISCO_X"
+		OutputFileName=".\sXe Dead v2.0\sXe Dead.exe"
+		>
+		<Messages
+		/>
+		<Folders
+		/>
+		<Procedures
+		/>
+	</Protection>
+	<Script
+	/>
+</Document>

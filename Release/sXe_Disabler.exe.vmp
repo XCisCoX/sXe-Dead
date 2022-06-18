@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+	<Protection
+		InputFileName=".\sXe_Disabler.exe"
+		Options="103368"
+		VMCodeSectionName=".CISCO_X"
+		>
+		<Messages
+		/>
+		<Folders
+		/>
+		<Procedures
+		/>
+	</Protection>
+	<Script
+	/>
+</Document>
